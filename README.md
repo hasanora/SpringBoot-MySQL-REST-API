@@ -32,7 +32,7 @@ mvn spring-boot:run
 ```
 When the application is first built, it will create a database file in the directory specified in the ```application.properties``` file. 
 
-## * Testing *
+## *Testing*
 
 ### Maven Tests
 ```
